@@ -1,0 +1,14 @@
+{
+  "name": "disney-reservation-poller",
+  "version": "1.0.0",
+  "description": "check to see reservation times for disney dining",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaun Lobsinger",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.3.0"
+  }
+}
